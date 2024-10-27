@@ -99,3 +99,10 @@ Scaling: Collaborating with financial institutions to deploy the system on a lar
 
 
 Feel free to reach out if you have any questions or need further assistance! 🚀
+
+
+# Project Done By :
+
+Lella Sasi Naga
+N. Manoja
+E. Karthik
