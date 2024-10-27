@@ -4,14 +4,23 @@
 # Table of Contents
 
 . Introduction
+
 . Features
+
 . Tech Stack
+
 . Machine Learning Algorithms
+
 . Importance of Machine Learning
+
 . Learnings
+
 . Further Improvements
+
 . Conclusion
+
 . Future Scope
+
 
 # 📝 Introduction
 
@@ -20,18 +29,28 @@ Child mortality remains a significant global health issue influenced by complex 
 # ✨Features
 
 Child Mortality prediction using machine learning
+
 User-friendly web interface built with Django
+
 Data handling with Pandas
+
 Model training with Scikit-learn
+
 
 # 🛠️ Tech Stack
 
 Django: Web framework
+
 MySQL: Database
+
 Pandas: Data manipulation and analysis
+
 Scikit-learn: Machine learning library
+
 Openpyxl: Excel file handling
+
 xlwt: Excel writing
+
 Deployment: XAMPP server
 
 # 📚 Machine Learning Algorithms
